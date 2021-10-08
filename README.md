@@ -1,3 +1,26 @@
+# Login Forms with validation in React Hook Form
+
+SPA created with React, React Router and React Hook Form. It's simple and responsive sign-up/sign-in form with validation.
+
+## Tech stack:
+
+HTML, CSS, JavsScript, React, React Router, React Hokk Form
+
+## Demo
+
+https://dalilehk.github.io/login_form_react/
+
+## Features
+
+- forms with validation
+- responsive (mobile first)
+
+## Preview on different devices
+
+![alt text](https://github.com/dalilehk/login_form_react/blob/main/preview.JPG?raw=true)
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
