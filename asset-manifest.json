@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/login_form_react/static/css/main.c3faf9eb.chunk.css",
+    "main.js": "/login_form_react/static/js/main.09c20a36.chunk.js",
+    "main.js.map": "/login_form_react/static/js/main.09c20a36.chunk.js.map",
+    "runtime-main.js": "/login_form_react/static/js/runtime-main.46a05a4b.js",
+    "runtime-main.js.map": "/login_form_react/static/js/runtime-main.46a05a4b.js.map",
+    "static/js/2.e9989d50.chunk.js": "/login_form_react/static/js/2.e9989d50.chunk.js",
+    "static/js/2.e9989d50.chunk.js.map": "/login_form_react/static/js/2.e9989d50.chunk.js.map",
+    "index.html": "/login_form_react/index.html",
+    "static/css/main.c3faf9eb.chunk.css.map": "/login_form_react/static/css/main.c3faf9eb.chunk.css.map",
+    "static/js/2.e9989d50.chunk.js.LICENSE.txt": "/login_form_react/static/js/2.e9989d50.chunk.js.LICENSE.txt",
+    "static/media/eye-hide.9e33846f.svg": "/login_form_react/static/media/eye-hide.9e33846f.svg",
+    "static/media/eye-show.ced99001.svg": "/login_form_react/static/media/eye-show.ced99001.svg",
+    "static/media/leaves.36ee04d1.jpg": "/login_form_react/static/media/leaves.36ee04d1.jpg",
+    "static/media/logo_svg.dac3ab42.svg": "/login_form_react/static/media/logo_svg.dac3ab42.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46a05a4b.js",
+    "static/js/2.e9989d50.chunk.js",
+    "static/css/main.c3faf9eb.chunk.css",
+    "static/js/main.09c20a36.chunk.js"
+  ]
+}
