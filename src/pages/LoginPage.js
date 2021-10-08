@@ -7,7 +7,7 @@ const LoginPage = () => {
   return (
     <section className="login-section">
       <div className="logo-wrapper">
-        <Link to="/">
+        <Link to="/login_form_react">
           <img className="logo" src={logo} alt="Logo OrgaFarm" />
         </Link>
       </div>

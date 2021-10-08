@@ -15,7 +15,7 @@ function App() {
         <div className="wrapper">
           <PictureSection />
           <Switch>
-            <Route path="/" exact component={LoginPage} />
+            <Route path="/login_form_react" exact component={LoginPage} />
             <Route
               path="/forgot-password"
               exact
