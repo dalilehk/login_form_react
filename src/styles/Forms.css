@@ -1,0 +1,66 @@
+.forgot-password__label,
+.log-in-form__label,
+.sign-up-form__label {
+  font-weight: bold;
+}
+
+.sign-up-form,
+.log-in-form {
+  -webkit-box-pack: justify;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  margin: 0px auto;
+  /* max-width: 325px; */
+}
+
+.sign-up-form__element,
+.log-in-form__element,
+.already-a-member {
+  padding: 16px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.already-a-member {
+  letter-spacing: -0.64px;
+  margin-bottom: 24px;
+  text-align: left;
+}
+
+.log-in-form__element.password {
+  position: relative;
+}
+
+.sign-up-form__element.terms-accept {
+  height: 100%;
+  margin: 24px 0;
+}
+
+.sign-up-form__element.terms-accept input[type='checkbox'] {
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.sign-up-form__element.terms-accept label {
+  left: 0;
+  position: absolute;
+  top: 0;
+  /* text-align: justify; */
+}
+
+.sign-up-form__label,
+.sign-up-form__element-submit {
+  font-weight: bold;
+}
+
+.sign-up-form__label .terms-accept {
+  font-size: 0.8rem;
+  padding-left: 16px;
+}
+
+.sign-up-form__label a {
+  float: none;
+  font-size: 0.8rem;
+}

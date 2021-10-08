@@ -1,0 +1,65 @@
+.privacy-policy-wrapper,
+.terms-wrapper,
+.forgot-password-wrapper {
+  color: var(--dark-green);
+  font-size: 0.9rem;
+  padding-bottom: 24px;
+  text-align: left;
+}
+.privacy-policy-wrapper h1,
+.terms-wrapper h1,
+.forgot-password.wrapper h1 {
+  color: var(--dark-green);
+  font-family: Inter, sans-serif;
+  font-size: 1.2rem;
+  letter-spacing: -0.64px;
+  margin-bottom: 1.5rem;
+  text-align: left;
+  width: 100%;
+}
+
+.privacy-policy-wrapper h2,
+.terms-wrapper h2 {
+  font-size: 1rem;
+  margin-top: 1.3rem;
+}
+
+.privacy-policy-wrapper p,
+.terms-wrapper p,
+.forgot-password-wrapper p {
+  font-family: Inter, sans-serif;
+  line-height: 1.3rem;
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.privacy-policy-wrapper,
+ul,
+.terms-wrapper ul {
+  margin-left: 0.75em;
+  text-align: left;
+}
+
+.sub-page-section .btn-up {
+  bottom: 20px;
+  font-size: 2.8rem;
+  color: var(--dark-green);
+  opacity: 0.7;
+  position: fixed;
+  left: 80%;
+}
+
+.password-instructions {
+  margin: 26px 0;
+  text-align: left;
+}
+
+.password-instructions p {
+  margin: 20px 0;
+}
+
+@media screen and (min-width: 1024px) and (min-height: 768px) and (orientation: landscape) {
+  .sub-page-section .btn-up {
+    left: 40%;
+  }
+}
