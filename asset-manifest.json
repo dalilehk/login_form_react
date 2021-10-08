@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/login_form_react/static/css/main.0d712133.chunk.css",
-    "main.js": "/login_form_react/static/js/main.1958db90.chunk.js",
-    "main.js.map": "/login_form_react/static/js/main.1958db90.chunk.js.map",
+    "main.css": "/login_form_react/static/css/main.97d9234c.chunk.css",
+    "main.js": "/login_form_react/static/js/main.6b9ff8a8.chunk.js",
+    "main.js.map": "/login_form_react/static/js/main.6b9ff8a8.chunk.js.map",
     "runtime-main.js": "/login_form_react/static/js/runtime-main.46a05a4b.js",
     "runtime-main.js.map": "/login_form_react/static/js/runtime-main.46a05a4b.js.map",
     "static/js/2.e9989d50.chunk.js": "/login_form_react/static/js/2.e9989d50.chunk.js",
     "static/js/2.e9989d50.chunk.js.map": "/login_form_react/static/js/2.e9989d50.chunk.js.map",
     "index.html": "/login_form_react/index.html",
-    "static/css/main.0d712133.chunk.css.map": "/login_form_react/static/css/main.0d712133.chunk.css.map",
+    "static/css/main.97d9234c.chunk.css.map": "/login_form_react/static/css/main.97d9234c.chunk.css.map",
     "static/js/2.e9989d50.chunk.js.LICENSE.txt": "/login_form_react/static/js/2.e9989d50.chunk.js.LICENSE.txt",
     "static/media/eye-hide.9e33846f.svg": "/login_form_react/static/media/eye-hide.9e33846f.svg",
     "static/media/eye-show.ced99001.svg": "/login_form_react/static/media/eye-show.ced99001.svg",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.46a05a4b.js",
     "static/js/2.e9989d50.chunk.js",
-    "static/css/main.0d712133.chunk.css",
-    "static/js/main.1958db90.chunk.js"
+    "static/css/main.97d9234c.chunk.css",
+    "static/js/main.6b9ff8a8.chunk.js"
   ]
 }
