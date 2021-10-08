@@ -211,7 +211,8 @@ form a {
 
 .btn-login,
 .btn-send-reset,
-.sign-up-form__element-submit {
+.sign-up-form__element-submit,
+.btn-back-home {
   background-color: var(--dark-green);
   border: none;
   border-radius: 6px;
@@ -222,6 +223,11 @@ form a {
   letter-spacing: 0.5px;
   margin-top: 24px;
   width: 100%;
+}
+
+.btn-back-home a {
+  color: white !important;
+  text-decoration: white;
 }
 
 .login-section .sign-up,

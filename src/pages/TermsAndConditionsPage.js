@@ -5,7 +5,7 @@ const TermsAndConditionsPage = () => {
   return (
     <section className="sub-page-section">
       <div className="logo-wrapper">
-        <Link to="/">
+        <Link to="/login_form_react">
           <img className="logo" src={logo} alt="" />
         </Link>
       </div>
